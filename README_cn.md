@@ -32,7 +32,7 @@
 
 ## ⚙️ 安装
 ```
-conda create -n unifolm-wma python==3.10.18
+conda create -n unifolm-wma python==3.10.18 -y
 conda activate unifolm-wma
 
 conda install pinocchio=3.2.0 -c conda-forge -y
